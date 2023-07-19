@@ -146,7 +146,7 @@ After training the model is saved using h5 extension and is ready for prediction
 ```
 model.fit(X, y, batch_size = 32, epochs = 200)
 ```
-
+```
 Epoch 1/200
 6/6 [==============================] - 6s 99ms/step - loss: 4.9193 - accuracy: 0.0169
 
